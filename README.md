@@ -14,3 +14,4 @@ Repositorio para la clase laboratorios y tareas
 + 16/08/2022 Preparacion de nuestro equipo de computo 
 + :date: 16/08/2022: Laboratorio 2
 + :date: 16/08/2022: Tarea 2
+
