@@ -15,3 +15,35 @@ Repositorio para la clase laboratorios y tareas
 + :date: 16/08/2022: Laboratorio 2
 + :date: 16/08/2022: Tarea 2
 
+
+### semana 3
++ 23/08/2022 Preparacion de nuestro equipo de computo 
++ :date: 23/08/2022: Laboratorio 3
++ :date: 23/08/2022: Tarea 3
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
