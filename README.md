@@ -22,6 +22,10 @@ Repositorio para la clase laboratorios y tareas
 + :date: 23/08/2022: Tarea 3
 
 
+### semana 4
++ 30/08/2022 Preparacion de nuestro equipo de computo 
++ :date: 30/08/2022: Laboratorio 4
++ :date: 30/08/2022: Tarea 4
 
 
 
