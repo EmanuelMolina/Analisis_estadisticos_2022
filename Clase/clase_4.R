@@ -1,7 +1,7 @@
 
 # Laboratorio 2 -----------------------------------------------------------
 
-data("chickwts") 
+data("chickwts")  
 
 head(chickwts) 
 
