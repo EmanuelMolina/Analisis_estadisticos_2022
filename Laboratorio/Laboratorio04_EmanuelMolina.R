@@ -6,7 +6,7 @@ str(inventario)
 dim(inventario) 
 head(inventario)
 tail(inventario)
-names(inventario)
+names(inventario) 
 colnames(inventario)
 summary(inventario)
 
