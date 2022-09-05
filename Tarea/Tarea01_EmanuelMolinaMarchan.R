@@ -20,7 +20,7 @@ sort(superficie)
 
 
 barplot(sort(superficie, decreasing = TRUE), col ="green", ylab = "Superficie (ha)",
-        xlab = "Generos", names.arg = c("Pinus", "Mezquite", "Encinos", "Teka", "Juniperos")) 
+        xlab = "Generos", names.arg = c("Pinus", "Mezquite", "Teka", "Juniperos", "Encinos")) 
 
 
 mean(superficie)
