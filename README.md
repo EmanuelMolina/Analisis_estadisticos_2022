@@ -27,6 +27,11 @@ Repositorio para la clase laboratorios y tareas
 + :date: 30/08/2022: Laboratorio 4
 + :date: 30/08/2022: Tarea 4
 
+### semana 5
++ 06/09/2022 Prueba de t 
++ :date: 06/09/2022: Laboratorio 5
++ :date: 06/09/2022: Tarea 5
+
 
 
 
