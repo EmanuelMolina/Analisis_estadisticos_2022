@@ -37,7 +37,7 @@ pt(costa.T, df = n-1)
 #¿Cuál es el valor de p?
 
 t.test(costal, mu = 80) 
-#p-value en t.test muestra un valor de 0.02264
+#p-value en t.test muestra un valor de 0.02264; pt = 0.01132175
 
 
 #¿Cuántos grados de libertad tiene el experimento?
@@ -92,7 +92,7 @@ t.test(azufre, mu = 17.5)
 
 #¿Cuál es el valor de p?
 
-  #Respuesta: p-value en t.test = 0.1893
+  #Respuesta: p-value en t.test = 0.1893; pt = 0.9916121
 
 
 #¿Cuáles son los intervalos de confianza al 95 % ?
@@ -150,7 +150,7 @@ t.test(temp$temp_media, mu = 24)
 
 
 #¿Cuál es el valor de p?
-  #Respuesta: p-value = 0.03615
+  #Respuesta: p-value = 0.03615; pt = 0.01807384
 
 #¿Cuáles son los intervalos de confianza al 95 % ?
   #Respuesta: Intervalos de confianza: 23.28216 - 23.97599
