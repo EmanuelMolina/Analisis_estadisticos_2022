@@ -9,6 +9,8 @@
 # cuando la varaianza no es igual se debe hacer la preuba de "t"  
 # la hipotesis nula (H0) dice que no existe diferencia
 # la hipotesis alterna (H1) dice que existe diferencia entre lo que estoy comprando
+# si la media sale del intervalo de confianza si hay diferencia significativa 
+
 
 #Emanuel Molina 
 #Clase 5 
@@ -65,7 +67,12 @@ hist(chickwts$weight)
 
 shapiro.test(chickwts$weight)
 
-t.test(chickwts$weight, mu= 300)
+t.test(chickwts$weight, mu= 300, alternative = "less") 
+
+#el alternative es para generar dos colas y para establecer si estamos buscando menor "less" o mayor valor "greater"
+# aun existe diferencia significativa 
+
+
 
 #El ANOVA se utiliza para medir mas de dos muestras
 
@@ -119,6 +126,9 @@ var.test(invent$Diametro ~ invent$Tratamiento)
 t.test(invent$Diametro ~ invent$Tratamiento, var.equal= T)
 
 
+
+
+
 # con diametro de copa 
 
 boxplot(invent$Dcopa ~ invent$Tratamiento ) 
@@ -137,7 +147,7 @@ boxplot(invent$Kilogramo ~ invent$Fecha )
 
 shapiro.test(invent$Kilogramo)
 
-var.test(invent$Kilogramo  ~ invent$Fecha)
+var.test(invent$Kilogramo  ~ invent$Fecha) 
 
 #paired se indica que son dependientes 
 

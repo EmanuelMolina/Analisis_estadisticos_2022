@@ -32,8 +32,15 @@ Repositorio para la clase laboratorios y tareas
 + :date: 06/09/2022: Laboratorio 5
 + :date: 06/09/2022: Tarea 5
 
+### semana 6
++ 13/09/2022 
++ :date: 13/09/2022: Laboratorio 6
++ :date: 13/09/2022: Tarea 6
 
-
+### semana 7
++ 13/09/2022 Correlacion 
++ :date: 20/09/2022: Laboratorio 7
++ :date: 20/09/2022: Tarea 7
 
 
 
